@@ -1,3 +1,4 @@
+## Code Base
 import time
 import pandas as pd
 import numpy as np
@@ -19,10 +20,10 @@ def get_filters():
     # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
 
 
-    # get user input for month (all, january, february, ... , june)
+    # get user input for month (all, january, february, march, ... , june)
 
 
-    # get user input for day of week (all, monday, tuesday, ... sunday)
+    # get user input for day of week (all, monday, tuesday, wednesday, ... sunday)
 
 
     print('-'*40)
